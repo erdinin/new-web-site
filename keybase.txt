@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/xyznodes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://xyznodes.xyz
+  * I am xyznodes (https://keybase.io/xyznodes) on keybase.
+  * I have a public key with fingerprint 9268 9DB5 2C73 FFBA 53A7  0861 F287 570B 99E5 9F81
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010160fc9ea2a2cbba4c9110bc4effbf28b52ec3c25b2ec50f8b77c94e046b82111a0a",
+      "fingerprint": "92689db52c73ffba53a70861f287570b99e59f81",
+      "host": "keybase.io",
+      "key_id": "f287570b99e59f81",
+      "kid": "010160fc9ea2a2cbba4c9110bc4effbf28b52ec3c25b2ec50f8b77c94e046b82111a0a",
+      "uid": "a9f41874c5e866d9022a4e785ab83419",
+      "username": "xyznodes"
+    },
+    "service": {
+      "hostname": "xyznodes.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1704932658,
+  "expire_in": 157680000,
+  "prev": "f28e874c2c4fac67c1c641ea1a8c49c5813ce5f2ec148e206895059aa3800c6d",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJJTBRBFB12HCGD0YgJCYaKiBDArp5eqgcPLtGDqFGDqCiO1dXV0DJM
+DzPDpmhwi2s8uSEQNDF6kOBCMERRWYyKu6IJYhADB0mMBA1GDhitRr0Yj9blV/16
+79X/r/7d2DCbPaS6JqrK0xU3I+RRx+lSG20Q+R1ANbVK4NoBiuhkoB6NBoLuIkMD
+LsBBDkqcThSKecwTVcUCUSDkVCJQXVd1HqkiT4mT8KLKosjpSJVlogiUEyQV8RBC
+zGGQDnTDW0D9Pr/hDTJZhZeQojEqkZ1MBotOLHNIgkxPFmVOVRQqKjqCjFhoBiwG
+K07FAZppmCzHDu7J8v6B/891l07KYUUXIJIFIlIkSZrC8TwWqIxErCKnABULGKB+
+Ly6mDF1Rud1rMhPBznTAsmUGoZaxVid/ITLZhnF9fjNoEtPDbgqDQV/AZTGDlT4L
+Wk5V928Rt2p4NeYjY5RRf8AwvcAFGZIEDUsVypygOHlJROmAVvgMP3UbFkKUJcSx
+Zb1Dy365Rq1meCLomEgygUQSIMUQIyIoRETQSaioM1+ggCjPsb8SOVHB2Ml0iKQB
+q60SrwlcvMzqxAVMM2AUeHGw1E/Bzs72zeG2ELstMiLUGjCbfUrcn7FTPNG2RrDx
+ycmENW+zNqUNte0Zith1O1vbPZCYd2ll8tkXw+Op/fbsmbnHB0/gd871D/aPtvR9
+fdmUFFMenjA2+9z4zbZIu304e3Zi8YeSZ8berKa5dSOrf7Q03K+/1Vo1/WB170CK
+Rj7Gy+37k2rAndo5p75VHR1/HHNs3ZyJkXmzzixCtqRaLuPq67obUfZX8XlmY/Ro
+95ac1Iml82Md9ckLD+GnYT3nmxu6tx3+HPY9duuyjoet1ZfXPndEkWUXctMciSF4
+35J6KaNpecnAlw1tq5pB3FhkSt80+cDUolCp/VpO6pX89/kosT/G092zotcBOt9c
+dyzsu/epJnpl6WDXxcVHliz4CfQvOQU=
+=LhCy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xyznodes
+
+==================================================================
